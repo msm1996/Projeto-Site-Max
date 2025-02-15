@@ -1,0 +1,136 @@
+* {
+    font-family: "Roboto", serif;
+    color: white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.caixa-info {
+    padding-bottom: 80px;
+}
+
+header {
+    float: left;
+}
+
+.img-max {
+    float: left;
+    width: 200px;
+    padding-left: 20px;
+}
+
+.butao-entrar {
+    margin-left: 165vh;
+    background-color: blue;
+    position: absolute;
+    bottom: 91vh;
+    width: 150px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.butao-entrar:hover {
+    opacity: 0.6;
+}
+
+.butao-entrar:active {
+    opacity: 0.9;
+}
+
+.imagem-series-filmes {
+    width: 205vh;
+    height: 68vh;
+    padding-top: 10px;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 260px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 100vh;
+    top: 37vh;
+}
+
+h2 {
+    padding-bottom: 150px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 100vh;
+    top: 60vh;
+    font-size: 45px;
+}
+
+h3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 100vh;
+    top: 59vh;
+    font-size: 38px;
+}
+
+.butao-assine {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 100vh;
+    top: 68vh;
+    background-color: blue;
+    font-size: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 270px;
+    height: 60px;
+}
+
+.butao-assine:hover {
+    opacity: 0.4;
+}
+
+.butao-assine:active {
+    opacity: 0.9;
+}
+
+.imagem-varios-filmes {
+    margin-top: 8vh;
+    width: 205vh;
+    height: 68vh;
+}
+
+.p-atualizar {
+    padding-left: 10vh;
+    padding-top: 10vh;
+}
+
+p {
+    font-size: 50px;
+    padding: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: 2px;
+}
+
+.caixa-informacao {
+    background-color: blue;
+    width: 205vh;
+    height: 68vh;
+    border-radius: 50px;
+}
+
+.caixa-de-baixo {
+    position: absolute;
+    top: 185vh;
+    width: 210vh;
+}
+
+.imagem-final {
+    width: 210vh;
+}

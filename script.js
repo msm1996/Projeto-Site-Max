@@ -1,0 +1,7 @@
+document.querySelector(".butao-entrar").onclick = function () {
+    window.open("https://auth.max.com/login?_referrer=eyJlbGVtZW50IjoiQnV0dG9uIiwic2NyZWVuTmFtZSI6IkFzc2lzdGlyIEZpbG1lcyBPbmxpbmUgfCBBc3Npc3RpciBTw6lyaWVzIE9ubGluZSB8IE1heCIsInNjcmVlblVSSSI6Imh0dHBzOi8vd3d3Lm1heC5jb20vYnIvcHQiLCJsb2NhdGlvbiI6IkhvbWVwYWdlL0Fzc2lzdGlyIEZpbG1lcyBPbmxpbmUgfCBBc3Npc3RpciBTw6lyaWVzIE9ubGluZSB8IE1heHxiYW5kfDMwMDkxNiIsImxvY2F0aW9uUG9zaXRpb24iOjAsInRhcmdldFRleHQiOiJFbnRyYXIifQ%3D%3D", "_blank");
+}
+
+document.querySelector(".butao-assine").onclick = function () {
+    window.open("https://auth.max.com/product?_referrer=eyJlbGVtZW50IjoiQnV0dG9uIiwic2NyZWVuTmFtZSI6IkFzc2lzdGlyIEZpbG1lcyBPbmxpbmUgfCBBc3Npc3RpciBTw6lyaWVzIE9ubGluZSB8IE1heCIsInNjcmVlblVSSSI6Imh0dHBzOi8vd3d3Lm1heC5jb20vYnIvcHQjIiwibG9jYXRpb24iOiJIb21lcGFnZS9Bc3Npc3RpciBGaWxtZXMgT25saW5lIHwgQXNzaXN0aXIgU8OpcmllcyBPbmxpbmUgfCBNYXh8YmFuZHwxNTc5MzUiLCJsb2NhdGlvblBvc2l0aW9uIjowLCJ0YXJnZXRUZXh0IjoiQVNTSU5FIEFHT1JBIn0%3D","_blank");
+}
